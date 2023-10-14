@@ -1,0 +1,118 @@
+@media (width > 1440px) {
+    header {
+
+        margin-top: 80px;
+        margin-left: 900px;
+    }
+    .fotoebisdiv {
+        display: grid;
+        grid-template-areas: 'pirveli meore mesame meotxe mexute meeqvse';
+    }
+    .first2 {
+     grid-area: pirveli;
+     margin-left: -20px;
+    }
+    .second2 {
+        grid-area: meore;
+        margin-left: -20px;
+    }
+    .third2 {
+        grid-area: mesame;
+    }
+    .fourth2 {
+        grid-area: meotxe;
+        margin-left: 1285px;
+    }
+    .fiveth2 {
+        grid-area: mexute;
+    }
+    .sixth2 {
+        grid-area: meeqvse;
+        margin-left: -20px;
+    }
+    .fotosback {
+        width: 100px;
+        height: 100px;
+        margin-top: 28px;
+    }
+    .fromgrptowhat {
+        display: grid;
+        place-items: center;
+        margin-top: -250px;
+    }
+    .fromgrptowhat1 {
+        width: 445px;
+        font-size: 64px;
+        line-height: 64px;
+    }
+    .fromgrptowhat2 {
+        width: 540px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .dwld {
+        margin-left: -160px;
+    }
+    .what {
+        margin-top: -60px;
+        margin-left: 230px;
+    }
+    .fizika1 {
+        margin-left: 950px;
+        
+    }
+    .fotoebisdiv2 {
+        margin-left: 135px;
+        display: flex;
+        width: 255px;
+        height: 383px;
+    }
+    .warwerebis2div {
+        margin-left: 800px;
+        margin-top: 90px;
+    }
+    .warwerebi1 {
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 4px;
+    }
+    .warwerebi2 {
+        width: 445px;
+        font-size: 40px;
+        margin-left: -35px;
+    }
+    .warwerebi3 {
+        width: 540px;
+        margin-left: -70px;
+    }
+    .fizika2 {
+        margin-left: 950px;
+    }
+    footer {
+        display: flex;
+        justify-content: center;
+        background-image: url(/assets/footergirl.svg);
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+        width:1903px;
+    }
+    .footertxt1 {
+        margin-top: 150px;
+        margin-left: -100px;
+        width: 350px;
+        font-size: 40px;
+        line-height: 44px;
+        align-items: center;
+    }
+    .footertxt2 {
+        margin-top: 155px;
+        margin-left: 230px;
+        width: 350px;
+        font-size: 18px;
+        line-height: 26px; 
+    }
+    .dwldfooter {
+        margin-top: 175px;
+        margin-left: 200px;
+    }
+}

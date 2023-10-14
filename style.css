@@ -15,7 +15,6 @@ header {
 .fotoebisdiv {
     display: flex;
     column-gap:15px;
-    
 }
 .first2 {
 margin-top: 81px;
@@ -215,7 +214,6 @@ footer{
     background: #4D96A9;
     background-image: url(/assets/footergirl.svg);
     background-repeat: no-repeat;
-    
 }
 .footertxt1 {
     margin-left: 20px;
