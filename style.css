@@ -209,7 +209,7 @@ margin-top: 81px;
     line-height: 26px;
 }
 footer{
-    display: block;
+    display: grid;
     width: 375px;
     height: 430px;
     background: #4D96A9;
@@ -218,8 +218,8 @@ footer{
     
 }
 .footertxt1 {
-    margin-left: 18px;
-    margin-top: -20px;
+    margin-left: 20px;
+    margin-top: 90px;
     width: 327px;
     color: #FAFAFA;
     text-align: center;
@@ -230,7 +230,7 @@ footer{
     line-height: 36px;
 }
 .footertxt2 {
-    margin-top:134px ;
+    margin-top:-24px ;
     margin-left: 20px;
     width: 327px;
     color: #FAFAFA;
@@ -243,7 +243,7 @@ footer{
 }
 .dwldfooter {
     margin-left: 90px;
-    margin-top: 20px;
+    margin-top: -35px;
 }
 .but2 {
     border-radius: 29px;
