@@ -1,7 +1,7 @@
-@media (width > 1919px) {
+@media (width > 1440px) {
     header {
         margin-top: 80px;
-        margin-left: 900px;
+        margin-left: 661px;
     }
     .fotoebisdiv {
         display: grid;
@@ -9,25 +9,23 @@
     }
     .first2 {
      grid-area: pirveli;
-     margin-left: -20px;
+     margin-left: -18px;
     }
     .second2 {
         grid-area: meore;
-        margin-left: -20px;
     }
     .third2 {
         grid-area: mesame;
     }
     .fourth2 {
         grid-area: meotxe;
-        margin-left: 1305px;
+        margin-left: 781px;
     }
     .fiveth2 {
         grid-area: mexute;
     }
     .sixth2 {
         grid-area: meeqvse;
-        margin-left: -20px;
     }
     .fotosback {
         width: 100px;
@@ -57,35 +55,57 @@
         margin-left: 230px;
     }
     .fizika1 {
-        margin-left: 950px;
-        
+        margin-left: 692px;
     }
     .fotoebisdiv2 {
-        margin-left: 135px;
         display: flex;
+    }
+    .imgdiv1 {
+        width: 498px;
+        height: 332px;
+        margin-left: 59px;
+        border-radius: 10px;
+    }
+    .imgdiv2 {
         width: 255px;
-        height: 383px;
+        height: 332px;
+        margin-left: -10px;
+    }
+    .imgdiv3 {
+        width: 384px;
+        height: 332px;
+        border-radius: 10px;
+        margin-left: -10px;
+    }
+    .imgdiv4 {
+        width: 268px;
+        height: 332px;  
+        margin-right: 158px;
+        border-radius: 10px;
     }
     .warwerebis2div {
-        margin-left: 800px;
+        margin-left: 550px;
         margin-top: 90px;
+        font-size: 16px;
     }
     .warwerebi1 {
         font-size: 16px;
         line-height: 26px;
         letter-spacing: 4px;
+        font-size: 16px;
     }
     .warwerebi2 {
         width: 445px;
         font-size: 40px;
-        margin-left: -35px;
+        margin-left: -20px;
     }
     .warwerebi3 {
         width: 540px;
-        margin-left: -70px;
+        font-size: 18px;
+        margin-left: -60px;
     }
     .fizika2 {
-        margin-left: 950px;
+        margin-left: 719px;
     }
     footer {
         display: flex;
@@ -93,11 +113,11 @@
         background-image: url(/assets/footergirl.svg);
         background-repeat:no-repeat;
         background-attachment: fixed;
-        width:1920px;
+        width:1441px;
     }
     .footertxt1 {
         margin-top: 150px;
-        margin-left: -100px;
+        margin-left: -px;
         width: 350px;
         font-size: 40px;
         line-height: 44px;
