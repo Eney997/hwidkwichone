@@ -1,4 +1,4 @@
-@media (width > 1919px) {
+@media (width > 1440px) {
     header {
         margin-top: 80px;
         margin-left: 900px;
@@ -20,7 +20,7 @@
     }
     .fourth2 {
         grid-area: meotxe;
-        margin-left: 1305px;
+        margin-left: 1285px;
     }
     .fiveth2 {
         grid-area: mexute;
@@ -93,7 +93,7 @@
         background-image: url(/assets/footergirl.svg);
         background-repeat:no-repeat;
         background-attachment: fixed;
-        width:1920px;
+        width:1903px;
     }
     .footertxt1 {
         margin-top: 150px;
